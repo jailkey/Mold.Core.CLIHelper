@@ -1,0 +1,8 @@
+{
+	"name": "Mold.Core.CLIHelper",
+	"version": "0.0.1",
+	"dependencies": [],
+	"repositories": {
+		"Mold": "Mold/"
+	}
+}
