@@ -4,5 +4,10 @@
 	"dependencies": [],
 	"repositories": {
 		"Mold": "Mold/"
-	}
+	},
+	"seeds" : [
+		"Mold.Core.CLIForm",
+		"Mold.Core.CLIHelper",
+		"Mold.Core.CLILoadingBar"
+	]
 }
